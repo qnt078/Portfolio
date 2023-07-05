@@ -172,8 +172,7 @@ header {
 .home-sci {
   position: absolute;
   bottom: 40px;
-  width: 170px;
-
+  width: 190px;
   display: flex;
   justify-content: space-between;
   align-items: center;
